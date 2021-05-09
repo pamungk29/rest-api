@@ -1,0 +1,30 @@
+[
+    {
+        "nama" : "Nova",
+        "umur" : 23,
+        "nrp" : "A111710263",
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Sendi",
+            "pembimbing2" : "Usman"
+        }
+    },
+    {
+        "nama" : "Nova",
+        "umur" : 23,
+        "nrp" : "A111710263",
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Sendi",
+            "pembimbing2" : "Usman"
+        }
+    }
+]
